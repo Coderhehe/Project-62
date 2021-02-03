@@ -1,0 +1,29 @@
+#grid img {
+    width: 150px;
+    height: 150px;    
+}
+
+body {
+    text-align: center;
+    background-color: gold;
+}
+#grid {
+    background-color: aqua;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: black;
+    font-size: 25px
+}
+
+#sliding {
+    background-color: chocolate;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
